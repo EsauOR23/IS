@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         'trabajador': {
             password: 'trabajador',
-            redirectTo: 'MenuTrabajador.html'
+            redirectTo: 'MenuDueño.html'
         }
     };
     
